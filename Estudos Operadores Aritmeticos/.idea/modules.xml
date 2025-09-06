@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Estrutura de Controle em Java/Estrutura de Controle em Java.iml" filepath="$PROJECT_DIR$/../Estrutura de Controle em Java/Estrutura de Controle em Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estudos Operadores Aritmeticos.iml" filepath="$PROJECT_DIR$/Estudos Operadores Aritmeticos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercios Java/Exercios Java.iml" filepath="$PROJECT_DIR$/Exercios Java/Exercios Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Estrutura de Controle em Java/If - Else/If - Else.iml" filepath="$PROJECT_DIR$/../Estrutura de Controle em Java/If - Else/If - Else.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operadores Bitwise bite a bite/Operadores Bitwise bite a bite.iml" filepath="$PROJECT_DIR$/Operadores Bitwise bite a bite/Operadores Bitwise bite a bite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Estrutura de Controle em Java/SwitchCase/SwitchCase.iml" filepath="$PROJECT_DIR$/../Estrutura de Controle em Java/SwitchCase/SwitchCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Estrutura de Controle em Java/WhileDoWhile/WhileDoWhile.iml" filepath="$PROJECT_DIR$/../Estrutura de Controle em Java/WhileDoWhile/WhileDoWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Estrutura de Controle em Java/for/for.iml" filepath="$PROJECT_DIR$/../Estrutura de Controle em Java/for/for.iml" />
+    </modules>
+  </component>
+</project>
